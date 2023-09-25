@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/s2elcBd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
 <h1>Examine input/output in the Linux shell</h1>
 
 <h2>Generate output with the echo command</h2>
